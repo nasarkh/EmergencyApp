@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         findViewById(R.id.callButton).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                dialContactPhone("111");
+                dialContactPhone("07434948021");
             }
         });
     }
